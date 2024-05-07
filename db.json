@@ -1,25 +1,64 @@
-
 {
   "garbage": [
     {
       "type": "Electrical-waste",
       "description": "Electrical waste, also known as e-waste, refers to discarded electrical or electronic devices. This includes old computers, televisions, mobile phones, and other electronic appliances.",
-      "image_url": "https://example.com/electrical_waste.jpg"
+      "image_url": "https://example.com/electrical_waste.jpg",
+      "recycling_info": "Electrical waste can be recycled to recover valuable materials such as metals (e.g., copper, gold, silver) and plastics. Recycling reduces the need for raw materials and prevents toxic substances from contaminating the environment.",
+      "reusing_info": "Some electronic devices can be refurbished and reused. Donating or selling functional electronics reduces waste and extends their lifespan.",
+      "harmful_effects": "Improper disposal of electrical waste can lead to environmental pollution and health hazards. It may release toxic substances such as lead, mercury, and cadmium into the soil, water, and air.",
+      "examples": [
+        "Old computers",
+        "Televisions",
+        "Mobile phones",
+        "Printers",
+        "Refrigerators"
+      ]
     },
     {
       "type": "Recyclable-waste",
       "description": "Recyclable waste consists of materials that can be recycled and reprocessed to create new products. This includes paper, cardboard, plastics, glass, and metal.",
-      "image_url": "https://example.com/recyclable_waste.jpg"
+      "image_url": "https://example.com/recyclable_waste.jpg",
+      "recycling_info": "Recyclable waste can be sorted, processed, and recycled into new products. Recycling conserves natural resources, reduces energy consumption, and minimizes landfill waste.",
+      "reusing_info": "Many recyclable items can be reused or repurposed. For example, glass jars can be used for storage, and cardboard boxes can be used for packaging.",
+      "harmful_effects": "When recyclable waste is not properly recycled, it can end up in landfills or incinerators, contributing to environmental pollution and greenhouse gas emissions.",
+      "examples": [
+        "Newspapers",
+        "Cardboard boxes",
+        "Plastic bottles",
+        "Glass jars",
+        "Aluminum cans"
+      ]
     },
     {
       "type": "Biomedical-waste",
       "description": "Biomedical waste, also known as infectious waste or medical waste, is any waste containing infectious materials or potentially infectious substances such as blood. This includes discarded medical equipment, sharps, and laboratory waste.",
-      "image_url": "https://example.com/biomedical_waste.jpg"
+      "image_url": "https://example.com/biomedical_waste.jpg",
+      "recycling_info": "Biomedical waste must be properly segregated, treated, and disposed of to prevent the spread of infections and protect public health. Some materials, such as plastics and glass, can be recycled if they are not contaminated with infectious substances.",
+      "reusing_info": "Certain medical equipment and devices can be sterilized and reused if they meet safety standards. Reusing medical items reduces waste generation and conserves resources.",
+      "harmful_effects": "Improper handling and disposal of biomedical waste can pose serious health risks to healthcare workers, patients, and the general public. It may lead to the transmission of infectious diseases and environmental contamination.",
+      "examples": [
+        "Used syringes",
+        "Blood-soaked bandages",
+        "Expired medications",
+        "Disposable gloves",
+        "Culture dishes"
+      ]
     },
     {
       "type": "Organic-waste",
       "description": "Organic waste, also known as biodegradable waste, is any waste material that is derived from living organisms and is biodegradable. This includes food waste, garden waste, and other biodegradable materials.",
-      "image_url": "https://example.com/organic_waste.jpg"
+      "image_url": "https://example.com/organic_waste.jpg",
+      "recycling_info": "Organic waste can be composted to produce nutrient-rich soil amendment for gardening and agriculture. Composting reduces waste sent to landfills and helps mitigate greenhouse gas emissions.",
+      "reusing_info": "Food scraps and organic materials can be reused in various ways, such as feeding animals, creating natural dyes, or making homemade cleaners.",
+      "harmful_effects": "When organic waste decomposes in landfills without proper aeration, it produces methane, a potent greenhouse gas that contributes to climate change. Additionally, organic waste can attract pests and generate foul odors.",
+      "examples": [
+        "Fruit and vegetable peels",
+        "Leftover food",
+        "Grass clippings",
+        "Coffee grounds",
+        "Paper towels"
+      ]
     }
   ]
 }
