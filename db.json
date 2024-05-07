@@ -1,1 +1,25 @@
 
+{
+  "garbage": [
+    {
+      "type": "Electrical-waste",
+      "description": "Electrical waste, also known as e-waste, refers to discarded electrical or electronic devices. This includes old computers, televisions, mobile phones, and other electronic appliances.",
+      "image_url": "https://example.com/electrical_waste.jpg"
+    },
+    {
+      "type": "Recyclable-waste",
+      "description": "Recyclable waste consists of materials that can be recycled and reprocessed to create new products. This includes paper, cardboard, plastics, glass, and metal.",
+      "image_url": "https://example.com/recyclable_waste.jpg"
+    },
+    {
+      "type": "Biomedical-waste",
+      "description": "Biomedical waste, also known as infectious waste or medical waste, is any waste containing infectious materials or potentially infectious substances such as blood. This includes discarded medical equipment, sharps, and laboratory waste.",
+      "image_url": "https://example.com/biomedical_waste.jpg"
+    },
+    {
+      "type": "Organic-waste",
+      "description": "Organic waste, also known as biodegradable waste, is any waste material that is derived from living organisms and is biodegradable. This includes food waste, garden waste, and other biodegradable materials.",
+      "image_url": "https://example.com/organic_waste.jpg"
+    }
+  ]
+}
